@@ -1,2 +1,2 @@
-# Lista-de-Jogos
-Esta aplicação trata-se de uma lista de jogos que consome uma API para receber os dados de tais jogos e apresenta-los no site!
+
+![Captura de Tela (21)](https://github.com/Gabriel-Gvr/Lista-de-Jogos/assets/85135553/703b5abd-09ce-4702-8ee5-8109285b1665)
